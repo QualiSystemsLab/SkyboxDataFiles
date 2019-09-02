@@ -31,6 +31,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\Quali\customers\Skybox-jsons\SkyboxDataFiles\non-master-bp\Minimal\RoutePolicy" />
       <recent name="E:\Github\Quali\customers\Skybox-jsons\SkyboxDataFiles\non-master-bp\Minimal\DevicePolicy" />
     </key>
   </component>
@@ -112,29 +113,14 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../../Skybox/Skybox/shells/azuresupplementcommands/src/driver.py</url>
-          <line>339</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/../../Skybox/Skybox/shells/azuresupplementcommands/src/generic_template.py</url>
+          <line>281</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../../Skybox/Skybox/shells/azuresupplementcommands/src/driver.py</url>
-          <line>335</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://C:/Python27/Lib/site-packages/qs_cs_config_parser/parse_config.py</url>
-          <line>104</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://C:/Python27/Lib/site-packages/qs_cs_config_parser/parse_config.py</url>
-          <line>88</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://C:/Python27/Lib/site-packages/qs_cs_config_parser/parse_config.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/../../Skybox/Skybox/shells/azuresupplementcommands/src/generic_template.py</url>
+          <line>277</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
