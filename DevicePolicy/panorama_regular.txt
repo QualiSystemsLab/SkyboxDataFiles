@@ -1,0 +1,1 @@
+commit-all shared-policy merge-with-candidate-cfg yes device-group <<__PA__DEVICE_GROUP__PA__>> devices <<__PA__SERIAL_NO__PA__>> vsys [ vsys1 ]

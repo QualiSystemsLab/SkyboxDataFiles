@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Internet_Transit",
+    "Description": "Internet_Transit",
+    "Priority": "100",
+    "direction": "Inbound",
+    "protocol": "*",
+    "source_address_prefix": "*",
+    "destination_address_prefix": "*",
+    "access": "Allow",
+    "source_port_range": "*",
+    "destination_port_range": "*"
+  },
+    {
+    "Name": "Internet_Transit_2",
+    "Description": "Internet_Transit",
+    "Priority": "101",
+    "direction": "Inbound",
+    "protocol": "*",
+    "source_address_prefix": "*",
+    "destination_address_prefix": "*",
+    "access": "Allow",
+    "source_port_range": "*",
+    "destination_port_range": "*"
+  }
+
+]
+
